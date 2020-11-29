@@ -8,3 +8,12 @@ h1 {
     font-size: 50px;
     color: white; 
 }
+footer {
+    color: grey;
+    text-align: right;
+}
+a {
+    color: aquamarine;
+    text-decoration: none;
+
+}
